@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9692'
     url: http://www.gutenberg.org/2009/agents/9692
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14577#The-Teaching-of-History
 gutenberg_bookshelf: Education
 gutenberg_issued: '2005-01-03'
 gutenberg_type: Text
